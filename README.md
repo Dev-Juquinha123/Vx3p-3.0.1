@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76e86d67-3f68-41af-8890-e7f0ffbea90d" alt="Community123">
+  <img src="https://github.com/Dev-Juquinha123/Vx3p-3.0.1/blob/c61a0e2d494f27afd38cf945fea1fa86f5c09fb4/Vx3p.jpg" alt="Community123">
 </p>
 
 <p align="center">
